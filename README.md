@@ -5,12 +5,30 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Seungjae 👋
+
+### Robotics / 3D Perception Engineer
+
+- 🔭 Interested in 3D Point Cloud Perception
+- 🤖 Robotics Software
+- 👁️ Computer Vision
+- 📷 Stereo Vision / Visual SLAM
+- 🧠 Deep Learning
+
+## Tech Stack
+
+- Python
+- C++
+- ROS2
+- OpenCV
+- Open3D
+- PyTorch
+- Isaac Sim
+
+## Projects
+
+### 3D Perception Study
+Point Cloud, Depth Estimation, 6D Pose Estimation 등을 공부하고 있습니다.
+
+### Stereo Camera Project
+Two webcams → Stereo Calibration → Disparity → Depth → Point Cloud
