@@ -13,17 +13,16 @@
 
 ---
 
-## 🔬 Currently Studying
+## 🔬 Currently Working On
 
-### 👉 [3D Perception Study](https://github.com/12tmdwo/3d-perception-study)
+### 👉 [Reinforcement Learning Personal Project](https://github.com/12tmdwo/ppo_study)
 
-3D Perception을 중심으로 학습한 내용과 실습 코드를 정리하고 있습니다.
+강화학습으로 로봇팔이 막대를 구멍에 끼우는(Peg-in-Hole) 개인 프로젝트를 진행하고 있습니다.
 
-- Point Cloud
-- Camera Geometry
-- Depth Estimation
-- 6D Pose Estimation
-- Visual SLAM
+- Reinforcement Learning (PPO 직접 구현)
+- Isaac Sim / Isaac Lab
+- Doosan M0609 + RG2 Gripper
+- Peg-in-Hole
 
 ---
 
