@@ -17,7 +17,7 @@
 
 ### 👉 [Reinforcement Learning Personal Project](https://github.com/12tmdwo/ppo_study)
 
-강화학습으로 로봇팔이 막대를 구멍에 끼우는(Peg-in-Hole) 개인 프로젝트를 진행하고 있습니다.
+간단한 동작들을 학습하면서 강화학습에 대해 알아가고 있고 추후에 여러 논문들을 구현할 예정입니다.
 
 - Reinforcement Learning (PPO 직접 구현)
 - Isaac Sim / Isaac Lab
